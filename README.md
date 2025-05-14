@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently building a ML sign language detector with interactive teaching for users<br>📚 I'm currently learning motion in ReactJS, and principles of web design</p>
+<p align="left">🔭 I'm currently building a ML sign language detector with interactive teaching for users, and a new personal portfolio website<br>📚 I'm currently learning motion in ReactJS, and key principles of web design</p>
 
 ###
 
