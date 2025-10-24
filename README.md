@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently building a ML sign language detector with interactive teaching for users, and documenting my completion NeetCode 150 <br>📚 I'm currently learning motion in ReactJS, and key principles of web design<br>✅ I have recently built:<br> &nbsp&nbsp - 🏃 a ML real-time movement classifier with a functioning prototype (Arduino Nano 33 BLE and Flutter app)<br> &nbsp&nbsp - 🐛 an improved approach to performance bug report classification</p>
+<p align="left">🔭 I'm currently building a ML sign language detector with interactive teaching for users, and documenting my completion of NeetCode 150 <br>📚 I'm currently learning motion in ReactJS, and key principles of web design<br>✅ I have recently built:<br> &nbsp&nbsp - 🏃 a ML real-time movement classifier with a functioning prototype (Arduino Nano 33 BLE and Flutter app)<br> &nbsp&nbsp - 🐛 an improved approach to performance bug report classification</p>
 
 
 ###
